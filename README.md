@@ -4,12 +4,24 @@ Frontend Developer building AI-assisted web applications. Currently expanding in
 
 ## 🚀 About Me
 
-- 💻 Frontend-focused developer
+- 💻 Built and deployed 4 real-world web applications
 - 🤖 I use AI tools to rapidly prototype, debug, refactor, and ship production-ready web applications.
 - 🌱 Currently learning Backend Development, DevOps, and AI Agents
 - 🎯 Interested in building SaaS and AI-powered products
 
 ---
+## 🤖 AI Workflow
+
+I use AI as a development partner throughout the software development lifecycle.
+
+- Feature planning
+- UI prototyping
+- Code generation
+- Refactoring
+- Debugging
+- Documentation
+  
+Every project is reviewed, tested, and integrated manually before deployment.
 
 ## 🛠 Tech Stack
 
@@ -66,7 +78,3 @@ Inventory and sales management system for pharmacies.
 ## 📫 Contact
 
 Email: phenggaming14@gmail.com
-
-LinkedIn: (later)
-
-Portfolio: (later)
