@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Phon Uyseng 👋
 
-<!--
-**HeaPheng/HeaPheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer transitioning into AI-native Full-Stack Development passionate about building real-world web applications with AI-assisted development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Frontend-focused developer
+- 🤖 I use AI tools to rapidly prototype, debug, refactor, and ship production-ready web applications.
+- 🌱 Currently learning Backend Development, DevOps, and AI Agents
+- 🎯 Interested in building SaaS and AI-powered products
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+
+### Backend
+- PHP
+- Laravel
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Vercel
+- ChatGPT
+- Claude
+- Gemini
+
+---
+
+## 📌 Featured Projects
+
+### 🥔 Heng Huy POS
+Point-of-sale and inventory management system built for a real business.
+
+### 🎓 E-Learning Platform
+Full-stack learning management system with multiple user roles and course management.
+
+### 📰 VD7 News
+Headless news website powered by WordPress CMS and Next.js.
+
+### 💊 Pharmacy POS
+Inventory and sales management system for pharmacies.
+
+---
+
+## 📈 Currently Learning
+
+- Next.js Backend
+- REST API Design
+- AI Agents
+- GitHub Actions
+- CI/CD
+
+---
+
+## 📫 Contact
+
+Email: phenggaming14@gmail.com
+
+LinkedIn: (later)
+
+Portfolio: (later)
