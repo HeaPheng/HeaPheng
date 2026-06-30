@@ -1,6 +1,6 @@
 # Hi, I'm Phon Uyseng 👋
 
-Frontend Developer transitioning into AI-native Full-Stack Development passionate about building real-world web applications with AI-assisted development.
+Frontend Developer building AI-assisted web applications. Currently expanding into backend, DevOps, and AI systems.
 
 ## 🚀 About Me
 
