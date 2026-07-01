@@ -55,7 +55,7 @@ Every project is reviewed, tested, and integrated manually before deployment.
 Point-of-sale and inventory management system built for a real business.
 
 ### 🎓 E-Learning Platform
-Full-stack learning management system with multiple user roles and course management.
+Full-stack learning management system with multiple user roles and course management, also support Khmer and English Course Lessons.
 
 ### 📰 VD7 News
 Headless news website powered by WordPress CMS and Next.js.
