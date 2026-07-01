@@ -4,7 +4,7 @@ Frontend Developer building AI-assisted web applications. Currently expanding in
 
 ## 🚀 About Me
 
-- 💻 Built and deployed 4 real-world web applications
+- 💻 Built and deployed 5 real-world web applications
 - 🤖 I use AI tools to rapidly prototype, debug, refactor, and ship production-ready web applications.
 - 🌱 Currently learning Backend Development, DevOps, and AI Agents
 - 🎯 Interested in building SaaS and AI-powered products
@@ -62,6 +62,9 @@ Headless news website powered by WordPress CMS and Next.js.
 
 ### 💊 Pharmacy POS
 Inventory and sales management system for pharmacies.
+
+### 🤖 AdCraft-AI
+AI SaaS platform designed to generate high-converting ad copy , also support Khmer and English.
 
 ---
 
